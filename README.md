@@ -1,2 +1,4 @@
-# project_spark_airflow
-# project_spark_airflow
+# Project Spark Airflow
+
+## :dart: Goals
+How to run Spark on Airflow using Docker
